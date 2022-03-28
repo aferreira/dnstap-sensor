@@ -81,7 +81,7 @@ or on the command line with:
         -heartbeat=10s -retry=1s
 
 The interval is specified in the syntax supported by
-(time.ParseDuration)[https://godoc.org/time#ParseDuration]. Both default to 30s.
+[time.ParseDuration](https://godoc.org/time#ParseDuration). Both default to 30s.
 
 ### Flush Interval
 
